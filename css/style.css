@@ -131,7 +131,7 @@ main img {
 			 transition: transform .2s;
 } 
  @media(min-width:768px) {
-{
+main img {
  height: 300px;
  }
 }
