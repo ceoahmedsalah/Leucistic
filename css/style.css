@@ -132,7 +132,7 @@ main img {
 } 
  @media(min-width:768px) {
 {
- max-height: 70%;
+ height: 300px;
  }
 }
 main img:hover {
