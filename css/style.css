@@ -129,7 +129,12 @@ main img {
 			 max-height: 100%;
 			 margin-top: 20%;
 			 transition: transform .2s;
-}  @media(min-width:768px) { max-height: 70%; }}
+} 
+ @media(min-width:768px) {
+{
+ max-height: 70%;
+ }
+}
 main img:hover {
 				transform: scale(1.5);
 				 -webkit-transform: scale(1.5);
