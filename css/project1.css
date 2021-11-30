@@ -1,0 +1,102 @@
+:root {
+  			--main-color : #FeF9e6;
+  				--second-color : #181818;
+  				--second-color : #121418;
+  				--third-color:  #0b1320
+  				 }
+
+.header {
+				background: rgb(147,35,229);
+}
+#nav {
+				background: rgb(147,35,229);
+}
+.kard {
+				margin-top: 50px;
+				padding-bottom: 20px;
+}
+.kard h2 {
+				font-size: 50px;
+				font-weight: 300;
+animation: 1s ease-out 0s 1 slideInLeft;
+}
+@keyframes slideInLeft {
+        0% {
+          transform: translateX(-100%);
+        }
+        100% {
+          transform: translateX(0);
+        }
+      }
+ h3 {
+				margin-top: 30px;
+				font-size: 18px;
+}
+.kard a {
+			color: white;
+			cursor: pointer;
+}
+
+.main {
+  padding-top: 50px;
+		text-align: center ;
+		background: black;
+}
+.main p {
+				font-size: 40px;
+}
+
+img {
+				height: 200px ;
+				margin-bottom: 40px;
+}
+.main .two {
+				font-size: 33px;
+				font-weight: 100;
+				margin-top: 50px;
+} 
+.main .ceo {
+				font-weight: 150; display: block;
+}
+
+.animated-kard {
+				padding: 200px 0px;
+				text-align: center ;
+}
+.animated-kard span {
+				padding: 2px;
+				background: white;
+				color: black;
+}
+ footer  {
+				padding: 50px 0px;
+				background: #FeF9e6;
+				color :#141416 ;
+}
+
+ footer h5 {
+				font-weight: 350;
+}
+footer h2 {
+				font-size: 40px;
+				font-weight: 150 ;
+}
+footer p {
+				font-weight: 300;
+}
+
+@media(max-width:700px){
+			.img3  {
+				margin-top: 50px;
+} 
+}
+@media(min-width:400px){
+				.main .imgs {
+				margin-top: 100px;
+}
+}
+.main img:hover {
+				 -webkit-filter: grayscale(100%); 
+     filter: grayscale(100%);
+				
+}
