@@ -11,7 +11,7 @@
 I used a pre-existing site to take inspiration from,Then I modified a few things
 
 ### Project live
-https://ceoahmedsalah.github.io/Leucistic1/
+https://ceoahmedsalah.github.io/Leucistic/
 
 
 ### Main Features
