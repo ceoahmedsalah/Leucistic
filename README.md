@@ -3,9 +3,9 @@
 ## Table of Contents
 
 * [Introduction](#introduction)
-* [Project live](#Project live) 
+* [project Live](#Project live) 
 * [Features](#features)
-* [Additional Features ](#additional features)
+* [Additional Features ](Additional features)
 
 ### Introduction 
 I used a pre-existing site to take inspiration from,Then I modified a few things
