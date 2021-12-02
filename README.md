@@ -17,6 +17,7 @@ https://ceoahmedsalah.github.io/Leucistic1/
 ### Main Features
 
 1- build a landing page
+
 2-build a projects page that has one project you can go to it by clicking on it in projects page
 
 3-Make headlines delay appearing and then appear smoothly when the page is loaded by Javascript 
