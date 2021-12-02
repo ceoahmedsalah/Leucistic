@@ -318,13 +318,6 @@ h3.splitting {
 }
 @media(min-width:768px) {
 .cards img { 
-width : 60% ; 
-	}
-}
-
-
-@media(min-width:768px) {
-#vid1 , #vid2 , #vid3 {
-height : 100px
+width : 60;
 } 
 } 
