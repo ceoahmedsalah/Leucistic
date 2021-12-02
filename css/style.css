@@ -324,10 +324,7 @@ width : 60% ;
 
 
 @media(min-width:768px) {
-#vid2 , #vid3 {
-display :none;
-} 
-#vid1 {
-position : fixed ;
+#vid1 , #vid2 , #vid3 {
+height : 100px
 } 
 } 
