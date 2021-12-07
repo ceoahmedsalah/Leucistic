@@ -3,7 +3,7 @@
 ## Table of Contents
 
 * [Introduction](#introduction)
-* [project Live](#project-live) 
+* [Project Live](#project-live) 
 * [Features](#features)
 * [Additional Features](additional-features)
 
